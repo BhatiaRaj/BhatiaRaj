@@ -25,7 +25,7 @@
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope:  I am a B.Tech student of Computer Science Engineering (CSE) and also contributing to frontend and backend for building web applications.
 
-- :seedling: Consistently trying new Technologies. No limit to one domain, open to learn new things.
+- :seedling: Consistently trying new Technologies. No limit to one domain, open to learn new technology.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajBhatia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhatia-1790901a8)
