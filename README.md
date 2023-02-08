@@ -6,22 +6,22 @@
   </a>
 <!--   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
+  </a> -->
+<!--   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=BhatiaRaj&style=flat-square&color=blue" alt=""/>
   <br>
-<br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raj+Bhatia!;" style="max-width: 100%;" align="left">
   <br/>
-</div>
+<br/>
 </div>
 
 <div>
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+</div>                                                                                                                                   
+
 
 ### :man_technologist: About Me :
  
