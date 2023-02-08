@@ -12,23 +12,45 @@
   </a> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=BhatiaRaj&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <br>
+<br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raj+Bhatia!;" style="max-width: 100%;" align="left">
+  <br/>
 </div>
 </div>
 
+<div>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+ 
+- 🌱 I’m currently learning **App Development, Web Development, SQL**
+
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
+
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://bhatiaraj.github.io/RajBhatiaPortfolio/)
+
+- 📫 How to reach me: **rajbhatia21.21@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-RajBhatia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhatia-1790901a8)
+
+
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1sh4FE0PP9z5kZCFlFTvf0BlWVaW94wRn/view?usp=sharing)
+
+- ⚡ Fun fact **Some time i forget people name 😂**
+
+---
+
+
+
+<!-- 
 ### :man_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope:  I am a B.Tech student of Computer Science Engineering (CSE) and also contributing to frontend and backend for building web applications.
 
 - :seedling: Consistently trying new Technologies. No limit to one domain, open to learn new technology.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ -->
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajBhatia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhatia-1790901a8)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
