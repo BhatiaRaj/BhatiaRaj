@@ -13,14 +13,14 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=BhatiaRaj&style=flat-square&color=blue" alt=""/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raj+Bhatia!;" style="max-width: 100%;" align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raj+Bhatia!;" style="max-width: auto;" align="Left">
   <br/>
 <br/>
 </div>
 
-<div>
+ <div>
     <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
-</div>                                                                                                                                   
+</div>                                                                                                                                
 
 
 ### :man_technologist: About Me :
