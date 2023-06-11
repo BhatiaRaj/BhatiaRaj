@@ -18,10 +18,12 @@
 <br/>
 </div>
 
- <div>
-    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
-</div>                                                                                                                                
+                                                                                                                               
+<div>
+<!--     <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"> -->
+  <img align="right" alt="Coding" width="400"  src="https://github.com/BhatiaRaj/BhatiaRaj/assets/97431540/ef04591c-9fe6-402f-a41d-6550a38f68b0">
 
+</div> 
 
 ### :man_technologist: About Me :
  
@@ -39,7 +41,7 @@
 - ⚡ Fun fact **Some time i forget people name 😂**
 
 ---
-
+ 
 
 
 <!-- 
