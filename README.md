@@ -36,7 +36,7 @@
 - 📫 How to reach me: **rajbhatia21.21@gmail.com** | [![Linkedin Badge](https://img.shields.io/badge/-RajBhatia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhatia-1790901a8)
 
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1sh4FE0PP9z5kZCFlFTvf0BlWVaW94wRn/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1GS9_QrkPrjg7uQpF-r9UpAhyy7rwL-Y6/view?usp=sharing)
 
 - ⚡ Fun fact **Some time i forget people name 😂**
 
