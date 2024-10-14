@@ -73,6 +73,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhatiaRaj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2460824" style='border:none;'></iframe>
 
 
 <!--
